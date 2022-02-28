@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">VendorApp</string>
+    <string name="edit_profile">Edit Profile</string>
+
+    <string name="title">Magento2 Vendor App</string>
+
+    <string name="save">Save</string>
+
+    <string name="publicName">Public Name*</string>
+
+    <string name="name">Name*</string>
+
+    <string name="gender">Gender</string>
+
+    <string name="picture">Profile Picture</string>
+
+    <string name="browse">Browse</string>
+
+    <string name="email">Email*</string>
+
+    <string name="contactNo">Contact Number</string>
+
+    <string name="companyName">Company Name</string>
+
+    <string name="about">About</string>
+
+    <string name="companyLogo">Company Logo</string>
+
+    <string name="companyBanner">Company Banner</string>
+
+    <string name="companyAddress">Company Address</string>
+
+    <string name="supportNumber">Support Number</string>
+
+    <string name="supportEmail">Support Email</string>
+
+    <string name="facebookId">Facebook ID</string>
+
+    <string name="twitterId">Twitter ID</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="gender_array">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+
+    </string-array>
+</resources>
